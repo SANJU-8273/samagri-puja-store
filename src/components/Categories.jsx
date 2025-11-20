@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Flower2 } from "lucide-react";
-import { categoryData } from "../data/products";
+import { categoryData } from "../data/CategoryData";
 
 export default function Categories() {
   return (
