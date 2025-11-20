@@ -1,9 +1,9 @@
 "use client";
 
-import AddressSection from "../../components/Checkout/AddressSection";
-import DeliveryOptions from "../../components/checkout/DeliveryOptions";
-import PaymentSection from "../../components/checkout/PaymentSection";
-import OrderSummary from "../../components/checkout/OrderSummary";
+import AddressSection from "../../components/Order/AddressSection";
+import DeliveryOptions from "../../components/Order/DeliveryOptions";
+import PaymentSection from "../../components/Order/PaymentSection";
+import OrderSummary from "../../components/Order/OrderSummary";
 
 export default function CheckoutPage() {
   return (
